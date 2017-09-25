@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>lorem ipsum</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <ab></ab>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+            <body>
+               <head>038746	AAICAB 1/1, Ashm. 1924-0682 // CDLI P142835</head><ab>
+                       <div xml:id="obverse" type="textpart"><ab><lb n="1"></lb>o. 1		51 guruš u4 1-še3	
+                       <lb n="3"></lb>o. 3		<placeName><geogFeat type="field">a-ša3 {d}Šara2-ta</geogFeat></placeName> gi ga6-ga2 	
+                       <lb n="4"></lb>o. 4		<placeName><geogFeat type="forest">tir {d}Nin-ildum2-ma</geogFeat></placeName>	
+                       <lb n="5"></lb>o. 5		u3 <placeName><geogFeat type="forest">tir a-ša3 la2-mah-ta</geogFeat></placeName>	
+                       <lb n= "6"></lb>o. 6		giš-ab-ba giš-asal2 de6-a	
+                       <lb n="7"> </lb>o. 7		u3 sahar (erasure?) si-ga	
+                       <lb n="8"></lb>o. 8		37 guruš u4 1-še3	
+                       <lb n="9"></lb>o. 9		<placeName><geogFeat type="canal-inlet">ka I7-sal4-la{ki}</geogFeat></placeName> sahar si-ga	
+                       <lb n="10"></lb>o. 10		12 guruš u4 1-še3	
+                       <lb n="11"></lb>o. 11		{gi}gilim gal ma2 e3 sur-ram </div> </ab>  
+                <div xml:id="reverse" type="textpart">r. 		============	
+                <lb n="12"></lb>r. 12		<roleName>ugula</roleName> <persName>I7-pa-e3</persName>	
+                <lb n="13"></lb>r. 13		kišib <persName>Lu2-{d}Šul-gi-ra</persName>	
+                <lb n="blank"></lb>r. 		------------	
+                <lb n="14"></lb>r. 14		mu ma-da <placeName>Za-ab-ša-li{ki}</placeName> ba-hul	
+                <lb n="blank"></lb>r. 			</div>
+                <div xml:id="seal" type="textpart"><lb n="1"></lb>s. 1		<persName>Lu2-{d}Šul-gi-ra</persName>	
+                <lb n="2"></lb>s. 2		<roleName>dub-sar</roleName>	
+                <lb n="3"></lb>s. 3		dumu <persName>Da-da-ga</persName></div>
+            </ab> 			
+                
+            </body>       
+    </text>
+</TEI>
